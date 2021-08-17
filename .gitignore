@@ -37,6 +37,12 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
 
 # TypeScript v1 declaration files
 typings/
@@ -88,3 +94,6 @@ sw.*
 
 # Vim swap files
 *.swp
+
+# PnP file
+.pnp.*
