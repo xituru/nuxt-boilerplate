@@ -1918,9 +1918,9 @@
     consola "^2.12.1"
     stylelint-webpack-plugin "^2.0.0"
 
-"@nuxtjs/tailwindcss@^5.3.0":
-  version "5.3.0"
-  resolved "https://registry.yarnpkg.com/@nuxtjs/tailwindcss/-/tailwindcss-5.3.0.tgz#7bd85d46909d151902e7267e6c1653e3cf6eb567"
+"@nuxtjs/tailwindcss@^5.3.1":
+  version "5.3.1"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/tailwindcss/-/tailwindcss-5.3.1.tgz#5c90ba3df4782653f0c625ea7eb7e898fa2844c1"
   dependencies:
     "@nuxt/kit" "^3.0.0-rc.5"
     "@nuxt/postcss8" "^1.1.3"
